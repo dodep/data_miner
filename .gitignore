@@ -1,3 +1,4 @@
+.gitignore
 /billboard_charts
 /.vscode
 /__pycache__
